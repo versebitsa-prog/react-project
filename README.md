@@ -10,7 +10,7 @@ A simple React project built while following the LinkedIn Learning “React Esse
 
 ### Installation  
 ```bash  
-git clone https://github.com/YourUsername/My-React-App.git  
-cd My-React-App  
+git clone https://github.com/versebitsa-prog/react-project.git  
+cd react-project  
 npm install  
-npm run dev  
+npm run dev  -> this should start the server
